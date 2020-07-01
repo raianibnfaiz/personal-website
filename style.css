@@ -70,16 +70,8 @@ section{
     margin: 3%;
     
 }
-.client{
-    text-align: center;
-}
-.founder{
-    text-align: center;
-}
-.company{
-    color: dimgray;
-    text-align: center;
-}
+
+
 .footer-work{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
