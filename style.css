@@ -100,9 +100,13 @@ section{
     margin: 100px 450px;
     text-align: center;
     color: white;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.message{
     text-align: center;
     font-size: 12px;
 }
